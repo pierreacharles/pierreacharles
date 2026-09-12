@@ -1,4 +1,10 @@
-## Hi there 👋
+## LinkedIn | Let’s keep in touch! 🔊 
+
+- 🚀 I'm actively expanding my Platform Engineering knowledge base to design more resilient, scalable infrastructure.
+- 🎯 My current focus centers on mastering multi-cloud environments and advanced automation, specifically deepening my hands-on expertise with Azure DevOps (ADO), GitHub, Jenkins, Azure Portal and Amazon Web Services (AWS). 
+- 😎 I'm passionate about collaboratively optimizing developer workflows and modernizing CI/CD pipelines.
+- 😄 Pronouns: I, Me.
+- ⚡ Fun fact: YOU'RE HERE, LET'S DO THIS TOGETER!
 
 <!--
 **pierreacharles/pierreacharles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
