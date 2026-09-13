@@ -6,7 +6,7 @@
 - 😄 Pronouns: I, Me.
 - ⚡ Fun fact: YOU'RE HERE, LET'S DO THIS TOGETER...
 
-- 🌐 https://www.everyexpert.com/pierreacharles
+- 🌐 everyexpert.com/pierreacharles
 
 <!--
 **pierreacharles/pierreacharles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
