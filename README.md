@@ -4,7 +4,7 @@
 - 🎯 My current focus centers on mastering multi-cloud environments and advanced automation, specifically deepening my hands-on expertise with Azure DevOps (ADO), GitHub Actions, Jenkins, Azure Portal, Amazon Web Services (AWS) and Google Cloud (GCP). 
 - 😎 I'm passionate about collaboratively optimizing developer workflows and modernizing CI/CD pipelines.
 - 😄 Pronouns: I, Me.
-- ⚡ Fun fact: YOU'RE HERE, LET'S DO THIS TOGETER...
+- ⚡ Fun fact: YOU'RE HERE, LET'S DO THIS TOGETHER...
 
 <!--
 **pierreacharles/pierreacharles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
