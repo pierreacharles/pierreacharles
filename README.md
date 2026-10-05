@@ -1,7 +1,7 @@
 ## LinkedIn | Let’s keep in touch! 🔊 
 
 - 🚀 I'm actively expanding my Platform Engineering knowledge base to design more resilient, scalable infrastructure.
-- 🎯 My current focus centers on mastering multi-cloud environments and advanced automation, specifically deepening my hands-on expertise with Azure DevOps (ADO), GitHub, Jenkins, Azure Portal and Amazon Web Services (AWS). 
+- 🎯 My current focus centers on mastering multi-cloud environments and advanced automation, specifically deepening my hands-on expertise with Azure DevOps (ADO), GitHub Actions, Jenkins, Azure Portal, Amazon Web Services (AWS) and Google Cloud (GCP). 
 - 😎 I'm passionate about collaboratively optimizing developer workflows and modernizing CI/CD pipelines.
 - 😄 Pronouns: I, Me.
 - ⚡ Fun fact: YOU'RE HERE, LET'S DO THIS TOGETER...
